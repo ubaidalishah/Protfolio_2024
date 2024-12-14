@@ -67,9 +67,6 @@ Protfolio_2024/
 - Integrate a database to store project details and contact form submissions.
 - Optimize for deployment on platforms like Heroku or Vercel.
 
-## License
-
-This project is open-source and available under the MIT License. Feel free to use and modify it as needed.
 
 ## Author
 
